@@ -7,7 +7,7 @@
 1. 到右邊的 **[Releases](https://github.com/hsiehtzuchi/block1-micro-quiz/releases/latest)**，下載 `Block1_Micro_Quiz.zip`（約 63 MB），解壓縮。
 2. 用**電腦**的 Chrome 或 Safari，**直接打開下載下來的 `Block1_Micro_Quiz.html`**（雙擊檔案即可）。
    - 不要在 GitHub 網頁上預覽，也不要放到其他網站或用手機開：線上玻片會被瀏覽器擋掉。
-3. 「🔬 線上玻片」需要網路；切到「🖼 截圖・共筆圖」可以離線練習。
+3. 「🔬 線上玻片」需要網路。送出或看答案後，題目區上方的「📖 看共筆原頁」可以看這個疾病的整段共筆。
 4. 範圍選單最下面是「🧩 挑戰版」：
    - aetherSlide：在旁邊視窗開，第一次要輸入課程給的玻片盒密碼。
    - NUS Pathweb：在旁邊視窗開，訪客就能看。
