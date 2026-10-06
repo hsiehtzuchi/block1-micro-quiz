@@ -4,7 +4,7 @@
 
 ## 下載與使用
 
-1. 到右邊的 **[Releases](../../releases/latest)**，下載 `Block1_Micro_Quiz.zip`（約 63 MB），解壓縮。
+1. 到右邊的 **[Releases](https://github.com/hsiehtzuchi/block1-micro-quiz/releases/latest)**，下載 `Block1_Micro_Quiz.zip`（約 63 MB），解壓縮。
 2. 用**電腦**的 Chrome 或 Safari，**直接打開下載下來的 `Block1_Micro_Quiz.html`**（雙擊檔案即可）。
    - 不要在 GitHub 網頁上預覽，也不要放到其他網站或用手機開：線上玻片會被瀏覽器擋掉。
 3. 「🔬 線上玻片」需要網路；切到「🖼 截圖・共筆圖」可以離線練習。
