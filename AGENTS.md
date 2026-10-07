@@ -19,4 +19,5 @@ gh release create v$(date +%Y%m%d-%H%M) dist/Block1_Micro_Quiz.zip dist/Block1_M
 ```
 
 - 發新版用新的 tag，README 的連結指向 `releases/latest`，會自動變成最新版。
+- 給班群的直接下載連結：https://github.com/hsiehtzuchi/block1-micro-quiz/releases/latest/download/Block1_Micro_Quiz.zip（永遠指向最新 release 的 zip，10/07 22:01 確認可用）。
 - 發布前確認：分享版已跑過 `safari_check`；檔案標題的題數正確；key 是 `b1micro_quiz_share_v1`。
